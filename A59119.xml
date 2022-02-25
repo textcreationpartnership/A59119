@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plain answer to a popish priest questioning the orders of the Church of England drawn up for the satisfaction of his parishioners, by a minister of that Church.</title>
+            <author>Seller, Abednego, 1646?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59119</idno>
+            <idno type="STC">Wing S2458</idno>
+            <idno type="STC">ESTC R14595</idno>
+            <idno type="EEBO-CITATION">13142540</idno>
+            <idno type="OCLC">ocm 13142540</idno>
+            <idno type="VID">98000</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98000)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 778:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plain answer to a popish priest questioning the orders of the Church of England drawn up for the satisfaction of his parishioners, by a minister of that Church.</title>
+                  <author>Seller, Abednego, 1646?-1705.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Howell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Abednego Seller. Cf. McAlpin Coll.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98000:1"/>
+            <pb facs="tcp:98000:1"/>
+            <p>A Plain Anſwer TO A <hi>Popiſh Prieſt</hi> Queſtioning the ORDERS OF THE CHURCH of <hi>ENGLAND.</hi>
+            </p>
+            <p>Drawn up for the ſatisfaction of his Pariſhioners, by a Miniſter of That Church.</p>
+            <floatingText type="license" xml:lang="lat" subtype="imprimatur">
+               <body>
+                  <p>IMPRIMATUR, Libellus cui Titulus [<hi>A Plain Anſwer to a Popiſh Prieſt queſtioning the Orders of the Church of</hi> England, <hi>&amp;c.</hi>]</p>
+                  <closer>
+                     <dateline>
+                        <date>April 16. 1688.</date>
+                     </dateline>
+                     <signed>
+                        <hi>H. MAURICE,</hi> Rmo in Chriſto P. ac D. D. <hi>Wilhelmo</hi> Archiepiſ. <hi>Cant.</hi> a Sacris Domeſt.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Howell,</hi> Bookſeller in <hi>Oxford.</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:98000:2"/>
+            <pb n="1" facs="tcp:98000:2"/>
+            <head>A Plain Anſwer TO A POPISH PRIEST, <hi>&amp;c.</hi>
+            </head>
+            <p>I Know nothing that uſeth to be objected againſt our Orders, but that either,
+<list>
+                  <item>1. We have not a true Succeſſion of Biſhops. Or</item>
+                  <item>2. No true form of Orders. Or</item>
+                  <item>3. That our Ordainers are Schiſmaticks, or Here<g ref="char:EOLhyphen"/>ticks, and ſo cannot ordain:</item>
+               </list> for as for that ridiculous ſilly exploded Story of the <hi>Nags-head Ordination,</hi> it re<g ref="char:EOLhyphen"/>quires a very hard Forehead at this time of day to own it, when We have ſo often prov'd from Authentick Re<g ref="char:EOLhyphen"/>cords, that <hi>Archbiſhop Parker</hi> was ordain'd in the Chap<g ref="char:EOLhyphen"/>pel at <hi>Lambeth</hi> by more than three Biſhops, and all his Brethren accordingly, agreeable to the <hi>Canons</hi> of the Ancient Church: and if this be deni'd, I will be at any time reſponſible for an <hi>Authentick</hi> Copy of thoſe Records.</p>
+            <p>Now to the firſt Objection, <hi>That we have no true Succeſſion;</hi> I anſwer,<lb/> 1. That there is a <hi>double</hi> Succeſſion, of <hi>Doctrine,</hi> and of <hi>Perſons;</hi> as to the Succeſſion of Doctrine, We
+<pb n="2" facs="tcp:98000:3"/>have better proofs than They; We believing all that hath been believ'd by the <hi>Catholick Church of Chriſt</hi> as neceſſary to Salvation, while the <hi>Romaniſts</hi> have in<g ref="char:EOLhyphen"/>troduc'd too many both Doctrines and Practiſes un<g ref="char:EOLhyphen"/>known to Antiquity.</p>
+            <p n="2">2. That as to the Succeſſion of Perſons,
+<list>
+                  <item>1. That proves Nothing without Succeſſion of Do<g ref="char:EOLhyphen"/>ctrines; for many of the <hi>Heretical</hi> Churches, as the <hi>Romaniſts</hi> account them, of the <hi>Eaſt,</hi> can ſhew as good a Succeſſion as they can at <hi>Rome.</hi>
+                  </item>
+                  <item>2. We have had ſuch a Succeſſion from the very foundation of our Church; and if it be objected, that We cannot ſhew a compleat Catalogue of the Names of our Biſhops:
+<list>
+                        <item>1. We ſay it is not neceſſary; For muſt there have been no Burgeſſes ſent from any Towns in <hi>England</hi> to Parliament, becauſe, as I ſuppoſe, no Man can ſhow a Liſt of the Names of all the ſeveral Perſons that ſerv'd there for every Town ſince the firſt Inſtitu<g ref="char:EOLhyphen"/>tion? And were there no Kings in many parts of the World, becauſe we cannot give an account who was the firſt, and the ſecond, <hi>&amp;c.</hi>
+                        </item>
+                        <item>2. Some of the Churches, to whom the <hi>Romaniſts</hi> allow a Succeſſion, cannot ſhew compleat Catalogues, as the Churches of <hi>Theſſalonica, Epheſus, Philippi, Co<g ref="char:EOLhyphen"/>rinth, Smyrna,</hi> &amp;c. and yet no man denies that they have Epiſcopal Succeſſion amongſt them.</item>
+                        <item>3. Nor is the Succeſſion of the <hi>Roman</hi> Church ſo undoubted as They would make it; for it is queſtio<g ref="char:EOLhyphen"/>nable whether St. <hi>Peter</hi> were ever Biſhop of <hi>Rome</hi> (in the true Eccleſiaſtical ſenſe of the Word) nor can Their beſt Authors to this day tell us who were his imme<g ref="char:EOLhyphen"/>diate Succeſſors; and among them, how many of their
+<pb n="3" facs="tcp:98000:3"/>
+                           <hi>Chronologiſts</hi> have made two Men, and two Popes of One? (for <hi>Cletus</hi> and <hi>Anacletus</hi> were undoubtedly the ſame Perſon) and if we conſider how many Anti<g ref="char:EOLhyphen"/>popes there were in the times of the great Schiſms under which that Church labour'd, and that there are many differences between the <hi>French</hi> and <hi>Italian</hi> Wri<g ref="char:EOLhyphen"/>ters about the number of their Popes, and who were the true Succeſſors of St. <hi>Peter;</hi> (The Princes of each Country, during thoſe Schiſms, embracing the Inte<g ref="char:EOLhyphen"/>reſts of that Pope who was of greateſt uſe and advan<g ref="char:EOLhyphen"/>tage to them) we have no great reaſon to depend ſo much on their Succeſſion. And whereas</item>
+                        <item>4. The <hi>Fathers,</hi> to prove Hereticks to be men but of yeſterday, and to have no true Succeſſion from the Apoſtles (as <hi>Irenaeus, Tertullian, Auſtin, Optatus,</hi> &amp;c.) inſtance in the Succeſſion of the Church of <hi>Rome,</hi> we are to remember that They were <hi>Weſtern</hi> Fathers, and ſo thought fit, as it was moſt proper, to inſtance in the Succeſſion of the <hi>Western Patriarch;</hi> not but that other Churches could plead the ſame Succeſſion, but that this <hi>Patriarchal</hi> See was the neareſt at hand: and They withall declare, that They could with the ſame Reaſon inſtance in the Succeſſion of other <hi>Pa<g ref="char:EOLhyphen"/>triarchs,</hi> whoſe Seats <hi>Tertullian</hi> calls <hi>Mother-Churches,</hi> as well as <hi>Rome.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>The ſecond Objection is, <hi>That we have no true form of Orders; and that none can confer that Power on Ano<g ref="char:EOLhyphen"/>ther, which He hath not himſelf.</hi> To which I anſwer in general, That if that Aphoriſm be true, then an In<g ref="char:EOLhyphen"/>fidel, that baptizeth in caſe of Neceſſity, cannot give Baptiſm, becauſe He himſelf is not baptiz'd; and yet the <hi>Roman</hi> Church allows ſuch Baptiſm to be valid in caſe of Neceſſity.</p>
+            <pb n="4" facs="tcp:98000:4"/>
+            <p> But in particular we ſay,
+<list>
+                  <item>1. That neither Chriſt nor his Apoſtles inſtituted any form of Words; and if Chriſt did not inſtitute any form of Words, then <hi>Orders</hi> are not a Sacrament from their own Principles; for to every Sacrament is required, as they ſay, an outward Sign, and an in<g ref="char:EOLhyphen"/>ward Grace, and a form of Words to convey that Grace: for I ſhould be glad to meet that Man who would ſhow me, that any one elſe but Chriſt can in<g ref="char:EOLhyphen"/>ſtitute a Sacrament, or that our Saviour delivered the <hi>holy Veſſels,</hi> (the Paten and Chalice) to the Apoſtles, and gave them power to offer Sacrifice for the Quick and Dead.</item>
+                  <item>2. We keep that Form which the Apoſtolical Church us'd in giving <hi>Orders,</hi> viz. Impoſition of Hands, 1 <hi>Tim.</hi> 4.14. 2 <hi>Tim.</hi> 1.6.</item>
+                  <item>3. Many of the <hi>Romiſh</hi> Church allow this to be a ſufficient Form.
+<list>
+                        <item>1. In the Caſe of the <hi>Greek</hi> Church, whoſe <hi>Orders</hi> They allow to be valid, tho They uſe not the <hi>Roman</hi> Form. And</item>
+                        <item>2. For this Reaſon <hi>F. Walſh, S. Clare,</hi> and ſome others of the <hi>Roman</hi> Church allow our <hi>Orders</hi> to be good.</item>
+                     </list>
+                  </item>
+                  <item>4. We are ſure that our Form is not only agreeable to the Apoſtolical Writings, but to the Practiſe of the Ancient Church. St. <hi>Chryſostom,</hi> Hom. 14. in Act. ſays, <hi>This is Ordination, The hand of Man is impoſed, but God worketh All, and it is his Hand that toucheth the Head of Him that is Ordained.</hi> Nor can the <hi>Ro<g ref="char:EOLhyphen"/>manists</hi> themſelves ſhew us any ſuch Form as Theirs is, of touching the Veſſels deputed to the uſe of the Bleſſed Euchariſt, till above 800 <hi>years</hi> after our Savi<g ref="char:EOLhyphen"/>our's time.</item>
+               </list>
+            </p>
+            <pb n="5" facs="tcp:98000:4"/>
+            <p> The third Objection is, <hi>Your Church is Schiſmatical and Heretical, and ſo cannot confer Orders.</hi>
+            </p>
+            <p>To which we anſwer, That the Charge is unjuſt, and that in truth the Hereſie and Schiſm lies at the door of the Church of <hi>Rome;</hi> and if their Argument be good, let them conſider how They will be able to vindi<g ref="char:EOLhyphen"/>cate themſelves. But take the Charge for granted:
+<list>
+                  <item>1. The Ordination of Hereticks was lookt upon to be valid in the Primitive Church.</item>
+                  <item>2. The <hi>Greeks</hi> are accounted by the <hi>Romanists</hi> not only Schiſmaticks, but Hereticks, as well as We, and yet their Prieſts are not re-ordain'd; nay, many <hi>Greeks</hi> are ſent from the <hi>Seminary</hi> at <hi>Rome</hi> to be ordain'd by thoſe Schiſmatical and Heretical Biſhops in the <hi>East.</hi>
+                  </item>
+                  <item>3. If no Orders given by a Heretick be valid, what becomes of their own, among whom ſo many <hi>Popes</hi> were Heretical, <hi>Liberius</hi> an <hi>Arrian, Honorius</hi> a <hi>Mono<g ref="char:EOLhyphen"/>thelite, John the</hi> 22d in ſome Points <hi>a Sadduce,</hi> &amp;c?</item>
+                  <item>4. If Orders be, as They reckon, a Sacrament, and the Sacraments give an indelible Character, where is that indelible Character, if He who was once duly order'd a Biſhop, when He turns, as They call it, He<g ref="char:EOLhyphen"/>retick, cannot give Orders?</item>
+                  <item>5. Many of their Authors do ſay, That bare laying on of Hands, without uſing any Words at all, is gi<g ref="char:EOLhyphen"/>ving of Orders; and ſome, That the Pope's ſaying, <hi>Be Thou a Priest,</hi> is ſufficient: as if a Man ſhould ſay, that ſprinkling a Child were baptizing it, when the Miniſter ſaid never a Word; Or that ſaying, Be Thou a Chriſtian, were ſufficient to make it ſuch, without ſprinkling the Child, or dipping it in Water. And</item>
+                  <item>6. At laſt, to make the moſt of it, and to take it for granted that our Biſhops were Schiſmaticks and
+<pb n="6" facs="tcp:98000:5"/>Hereticks, what is ſaid of Laymens Baptiſm, and ſuch like Caſes, will be pleaded for this, <hi>What ought not to be done, is valid when it is done,</hi> i. e. it ought not to be reiterated.</item>
+               </list>
+            </p>
+            <p>And when They Object that We had our <hi>Orders</hi> from them, and yet have left them, it is eaſily an<g ref="char:EOLhyphen"/>ſwered,
+<list>
+                  <item>1. That We had our <hi>Orders</hi> From them, as They from the Apoſtes; and We have ſeparated no farther from Them, than They from the Apoſtles.</item>
+                  <item>2. That this doth not make us any more beholding to Them for handing down our Orders to Us, than They are to the <hi>Jews,</hi> for handing down the Scriptures of the Old Teſtament to Them; All being owing, not to the Charity of the Men, but to the Wiſe Providence and Goodneſs of God, who hath ſo taken care of his Church.</item>
+               </list>
+            </p>
+            <p>To all which I ſubjoin, That We have a greater aſſu<g ref="char:EOLhyphen"/>rance of the validity of our <hi>Orders,</hi> than They can have of Theirs.
+<list>
+                  <item>1. Becauſe They make the <hi>Intention</hi> of the Prieſt ne<g ref="char:EOLhyphen"/>ceſſary to every Sacrament, and amongſt the Sacra<g ref="char:EOLhyphen"/>ments They reckon <hi>Orders;</hi> (<hi>Council of</hi> Trent, <hi>Seſſ.</hi> 7. <hi>Can.</hi> 11.) and We know, that no Man can be ſure of ano<g ref="char:EOLhyphen"/>ther Man's Intentions; and have been told, that ſome of their Biſhops have confeſs'd, That whenever they gave Orders, they never intended to make a Prieſt.</item>
+                  <item>2. Becauſe, if the Perſon <hi>Ordained,</hi> or <hi>Ordaining,</hi> be <hi>Simoniacal;</hi> if the Pope, who made the Biſhop, be ſo, or there were no juſt Intention when either of them were baptized, and ſo upward to the firſt Prieſt or Bi<g ref="char:EOLhyphen"/>ſhop who gave Baptiſm or Orders, then all that is done by ſuch Men is by their own Doctrine invalid.</item>
+               </list>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
